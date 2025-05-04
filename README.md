@@ -1,1 +1,1 @@
-# tuition
+Hamro Tuition is an e-learning platform designed for tuition centers to streamline their administrative tasks. The platform allows easy management of student records, attendance tracking, and fee management. It offers a user-friendly interface built with HTML, CSS, and Bootstrap for the frontend, while Django powers the backend, ensuring efficient handling of data. PostgreSQL is used as the database to store essential information securely.
